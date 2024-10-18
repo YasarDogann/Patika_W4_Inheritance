@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yasar\\source\\repos\\Patika\u002B\\week4\\patika_w4_Inheritance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8ECDE8C-6183-4E1E-9441-FC9E552C0BFB}|patika_w4_Inheritance\\patika_w4_Inheritance.csproj|c:\\users\\yasar\\source\\repos\\patika\u002B\\week4\\patika_w4_inheritance\\patika_w4_inheritance\\basepeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8ECDE8C-6183-4E1E-9441-FC9E552C0BFB}|patika_w4_Inheritance\\patika_w4_Inheritance.csproj|solutionrelative:patika_w4_inheritance\\basepeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8ECDE8C-6183-4E1E-9441-FC9E552C0BFB}|patika_w4_Inheritance\\patika_w4_Inheritance.csproj|c:\\users\\yasar\\source\\repos\\patika\u002B\\week4\\patika_w4_inheritance\\patika_w4_inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8ECDE8C-6183-4E1E-9441-FC9E552C0BFB}|patika_w4_Inheritance\\patika_w4_Inheritance.csproj|solutionrelative:patika_w4_inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BasePeople.cs",
+              "DocumentMoniker": "C:\\Users\\yasar\\source\\repos\\Patika\u002B\\week4\\patika_w4_Inheritance\\patika_w4_Inheritance\\BasePeople.cs",
+              "RelativeDocumentMoniker": "patika_w4_Inheritance\\BasePeople.cs",
+              "ToolTip": "C:\\Users\\yasar\\source\\repos\\Patika\u002B\\week4\\patika_w4_Inheritance\\patika_w4_Inheritance\\BasePeople.cs",
+              "RelativeToolTip": "patika_w4_Inheritance\\BasePeople.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAACUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T07:46:59.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yasar\\source\\repos\\Patika\u002B\\week4\\patika_w4_Inheritance\\patika_w4_Inheritance\\Program.cs",
+              "RelativeDocumentMoniker": "patika_w4_Inheritance\\Program.cs",
+              "ToolTip": "C:\\Users\\yasar\\source\\repos\\Patika\u002B\\week4\\patika_w4_Inheritance\\patika_w4_Inheritance\\Program.cs",
+              "RelativeToolTip": "patika_w4_Inheritance\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T07:45:36.615Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_Inheritance\patika_w4_Inheritance\bin\Debug\net8.0\patika_w4_Inheritance.exe
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_Inheritance\patika_w4_Inheritance\bin\Debug\net8.0\patika_w4_Inheritance.deps.json
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_Inheritance\patika_w4_Inheritance\bin\Debug\net8.0\patika_w4_Inheritance.runtimeconfig.json
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_Inheritance\patika_w4_Inheritance\bin\Debug\net8.0\patika_w4_Inheritance.dll
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_Inheritance\patika_w4_Inheritance\bin\Debug\net8.0\patika_w4_Inheritance.pdb
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_Inheritance\patika_w4_Inheritance\obj\Debug\net8.0\patika_w4_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_Inheritance\patika_w4_Inheritance\obj\Debug\net8.0\patika_w4_Inheritance.AssemblyInfoInputs.cache
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_Inheritance\patika_w4_Inheritance\obj\Debug\net8.0\patika_w4_Inheritance.AssemblyInfo.cs
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_Inheritance\patika_w4_Inheritance\obj\Debug\net8.0\patika_w4_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_Inheritance\patika_w4_Inheritance\obj\Debug\net8.0\patika_w4_Inheritance.dll
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_Inheritance\patika_w4_Inheritance\obj\Debug\net8.0\refint\patika_w4_Inheritance.dll
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_Inheritance\patika_w4_Inheritance\obj\Debug\net8.0\patika_w4_Inheritance.pdb
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_Inheritance\patika_w4_Inheritance\obj\Debug\net8.0\patika_w4_Inheritance.genruntimeconfig.cache
+C:\Users\yasar\source\repos\Patika+\week4\patika_w4_Inheritance\patika_w4_Inheritance\obj\Debug\net8.0\ref\patika_w4_Inheritance.dll
